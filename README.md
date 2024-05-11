@@ -6,13 +6,15 @@
 
 ## Pinned
 #### Mathematics
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=)]()
+[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=Mathematics)](https://github.com/LIONHOOD/Mathematics)
+[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=OrdinaryDifferentialEquation_modeling)](https://github.com/LIONHOOD/OrdinaryDifferentialEquation_modeling)
+[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=DataStructure_Graph)](https://github.com/LIONHOOD/DataStructure_Graph)
 
 #### Programming
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=)]()
+[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=CodingStudy_auto-sync)](https://github.com/LIONHOOD/CodingStudy_auto-sync)
 
 #### Data Science
 [![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=)]()
 
 #### Project
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=)]()
+[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=MicrobusinessDensityForecasting-Kaggle)](https://github.com/LIONHOOD/MicrobusinessDensityForecasting-Kaggle)
