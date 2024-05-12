@@ -9,7 +9,7 @@
 <h2>Contact</h2>
 
 
-<h2>Pinned</h2>
+<h2>Work</h2>
 <h4>Mathematics</h4>
 <a href="https://github.com/LIONHOOD/Mathematics">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=Mathematics&theme=transparent" />
