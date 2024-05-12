@@ -11,21 +11,39 @@
 
 <h2>Pinned</h2>
 <h4>Mathematics</h4>
+<a href="https://github.com/LIONHOOD/Mathematics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=Mathematics&theme=transparent" />
+</a>
+<a href="https://github.com/LIONHOOD/OrdinaryDifferentialEquation_modeling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=OrdinaryDifferentialEquation_modeling&theme=transparent" />
+</a>
+<a href="https://github.com/LIONHOOD/DataStructure_Graph">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=DataStructure_Graph&theme=transparent" />
+</a>
 
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=Mathematics)](https://github.com/LIONHOOD/Mathematics)
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=OrdinaryDifferentialEquation_modeling)](https://github.com/LIONHOOD/OrdinaryDifferentialEquation_modeling)
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=DataStructure_Graph)](https://github.com/LIONHOOD/DataStructure_Graph)
+<h4>Programming</h4>
+<a href="https://github.com/LIONHOOD/CodingStudy_auto-sync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=CodingStudy_auto-sync&theme=transparent" />
+</a>
+<a href="https://github.com/LIONHOOD/BaekJoon_step">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=BaekJoon_step&theme=transparent" />
+</a>
 
-#### Programming
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=CodingStudy_auto-sync)](https://github.com/LIONHOOD/CodingStudy_auto-sync)
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=BaekJoon_step)](https://github.com/LIONHOOD/BaekJoon_step)
+<h4>Data Science</h4>
+<a href="https://github.com/LIONHOOD/ExplainableAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=ExplainableAI&theme=transparent" />
+</a>
+<a href="https://github.com/LIONHOOD/ConvolutionalNeuralNetwork_summary">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=ConvolutionalNeuralNetwork_summary&theme=transparent" />
+</a>
+<a href="https://github.com/LIONHOOD/DeepLearning_Optimization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=DeepLearning_Optimization&theme=transparent" />
+</a>
+<a href="https://github.com/LIONHOOD/DeepLearning_summary">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=DeepLearning_summary&theme=transparent" />
+</a>
 
-#### Data Science
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=ExplainableAI)](https://github.com/LIONHOOD/ExplainableAI)
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=ConvolutionalNeuralNetwork_summary)](https://github.com/LIONHOOD/ConvolutionalNeuralNetwork_summary)
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=DeepLearning_Optimization)](https://github.com/LIONHOOD/DeepLearning_Optimization)
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=DeepLearning_summary)](https://github.com/LIONHOOD/DeepLearning_summary)
-
-#### Project
-[![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=MicrobusinessDensityForecasting-Kaggle)](https://github.com/LIONHOOD/MicrobusinessDensityForecasting-Kaggle)
-
+<h4>Project</h4>
+<a href="https://github.com/LIONHOOD/MicrobusinessDensityForecasting-Kaggle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=MicrobusinessDensityForecasting-Kaggle&theme=transparent" />
+</a>
