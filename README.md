@@ -1,12 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=dark&height=150&section=header&text=Daesang+Choi&animation=fadeIn&fontSize=60&fontAlign=70&fontAlignY=60" />
 <img src="https://readme-typing-svg.demolab.com/?lines=Always+Awake+🌙" />
 
+<h2>Contact</h2>
+
+
+<h2>Tech Stack</h2>
+
 
 <h2>Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=LIONHOOD&count_private=true&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&custom_title=Stats&hide_title=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIONHOOD&theme=transparent&hide_border=true&layout=compact" />
-
-<h2>Contact</h2>
 
 
 <h2>Work</h2>
