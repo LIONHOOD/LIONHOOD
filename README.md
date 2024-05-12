@@ -1,14 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=120&section=header&text=Daesang+Choi&animation=fadeIn&fontSize=55&fontAlign=75" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=dark&height=150&section=header&text=Daesang+Choi&animation=fadeIn&fontSize=60&fontAlign=70&fontAlignY=60" />
 <img src="https://readme-typing-svg.demolab.com/?lines=Always+Awake+🌙" />
+
+
 <h2>Stats</h2>
 
-![STATS](https://github-readme-stats.vercel.app/api?username=LIONHOOD&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=Stats&hide_title=true)
-![TOP LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=LIONHOOD&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=LIONHOOD&count_private=true&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&custom_title=Stats&hide_title=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIONHOOD&theme=transparent&hide_border=true&layout=compact" />
 
-<h2 align=center>Contact</h2>
+<h2>Contact</h2>
 
-## Pinned
-#### Mathematics
+
+<h2>Pinned</h2>
+<h4>Mathematics</h4>
+
 [![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=Mathematics)](https://github.com/LIONHOOD/Mathematics)
 [![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=OrdinaryDifferentialEquation_modeling)](https://github.com/LIONHOOD/OrdinaryDifferentialEquation_modeling)
 [![PINNED](https://github-readme-stats.vercel.app/api/pin/?username=LIONHOOD&repo=DataStructure_Graph)](https://github.com/LIONHOOD/DataStructure_Graph)
